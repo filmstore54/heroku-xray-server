@@ -4,29 +4,6 @@
 
 ⭕ ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴜꜱ ᴏʀ ᴇᴜʀᴏᴘᴇ ʀᴇɢɪᴏɴ ᴛᴏ ʙᴜɪʟᴅ ʏᴏᴜʀ ꜱᴇʀᴠᴇʀ.
 
-____
-
-# ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ.
-
-⭕ ꜰɪʀꜱᴛ ꜱɪɢɴ ᴏʀ ꜱɪɢɴᴜᴘ ᴛᴏ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ɢɪᴛʜᴜʙ.
-
-⭕ ɢɪᴠᴇ ꜱᴛᴀʀ & ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ.
-
-- 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
-
-<p><a href="https://github.com/heshan2/heroku-xray-server"> <img src="https://telegra.ph/file/96c2318cee74da32eb15a.jpg" /></a></p>
-Click on fork and star buttons like this image☝️.
-
-___
-- ⚠️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ⚠️.
-___
-
-⭕ ᴀꜰᴛᴇʀ ꜰᴏʀᴋᴇᴅ ᴄʟɪᴄᴋ ᴛʜɪꜱ.
-   - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
-
-
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/filmstore54/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
-
 ⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
    - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
    - 🔻ᴛʜᴇ ʀᴇɢɪᴏɴ ʏᴏᴜ ꜱᴇʟᴇᴄᴛᴇᴅ ɪꜱ ʏᴏᴜʀ ᴠ2ʀᴀʏ ᴀᴄᴄᴏᴜɴᴛ ꜱᴇᴠᴇʀ.

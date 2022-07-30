@@ -25,7 +25,3 @@ ______
 
 - ɴᴇᴛᴡᴏʀᴋ: ᴡꜱ
 _________
-### CREDIT
-Thanks To:
-- [teddysun](https://github.com/teddysun) For Main Repo
-- [iamtrazy](https://github.com/iamtrazy) For Heroku Deployable Repo
